@@ -1,37 +1,36 @@
-<h1>👋 Hi, I'm Narumedsr Pitayachamrat (Pao)</h1>
+# 👋 Hi, I'm Narumedsr Pitayachamrat (Pao)
 
-<ul>
-  <li>🎓 I am currently studying Computer Engineering at Chulalongkorn University.</li>
-  <li>💡 I have a strong interest in Artificial Intelligence and Backend Development.</li>
-</ul>
+- 🎓 I am currently studying Computer Engineering at Chulalongkorn University.
+- 💡 I have a strong interest in Artificial Intelligence and Backend Development.
 
-<h2>💼 Project</h2>
+## 💼 Project
 
-<ul>
-  <li><a href="https://github.com/Nayac08/Task-Management">Task Management</a> Application developed with Object-Oriented Programming in Java</li>
-</ul>
+- [Task Management](https://github.com/Nayac08/Task-Management) Application developed with Object-Oriented Programming in Java
 
-<h2>💻 Programming Languages</h2>
-<p style="white-space: nowrap; overflow-x: auto; margin: 0; padding: 0;">
-  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/refs/heads/master/assets/Logos/Icons/PNG/128x128.png" height="30" alt="Shell Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo" style="display: inline-block; margin-right: 10px;" />
+## 💻 Programming Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/refs/heads/master/assets/Logos/Icons/PNG/128x128.png" alt="Shell Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++ Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="30" height="30" />
 </p>
 
-<h2>⚙️ Frameworks & Libraries</h2>
-<p style="white-space: nowrap; overflow-x: auto; margin: 0; padding: 0;">
-  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="30" alt="Express.js Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js Logo" style="display: inline-block; margin-right: 10px;" />
+## ⚙️ Frameworks & Libraries
+
+<p>
+  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="Express.js Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Logo" width="30" height="30" />
 </p>
 
-<h2>🧰 Tools & Platforms</h2>
-<p style="white-space: nowrap; overflow-x: auto; margin: 0; padding: 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="VIM Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman Logo" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker Logo" style="display: inline-block; margin-right: 10px;" />
+## 🧰 Tools & Platforms
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="VIM Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman Logo" width="30" height="30" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker Logo" width="30" height="30" />
 </p>
