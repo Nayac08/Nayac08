@@ -5,7 +5,7 @@
 
 ## 💼 Project
 
-- [Task Management](https://github.com/Nayac08/Task-Management) Application developed with Object-Oriented Programming in Java
+- [Task Management](https://github.com/Nayac08/Task-Management) Application developed with OOP in Java
 
 ## 💻 Programming Languages
 
