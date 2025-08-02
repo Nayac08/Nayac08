@@ -12,26 +12,26 @@
 </ul>
 
 <h2>💻 Programming Languages</h2>
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/refs/heads/master/assets/Logos/Icons/PNG/128x128.png" height="30" title="Shell" alt="Shell Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" title="C++" alt="C++ Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" title="Python" alt="Python Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" title="Java" alt="Java Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" title="JavaScript" alt="JavaScript Logo" />
-</div>
+<p style="white-space: nowrap; overflow-x: auto; margin: 0; padding: 0;">
+  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/refs/heads/master/assets/Logos/Icons/PNG/128x128.png" height="30" alt="Shell Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++ Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript Logo" style="display: inline-block; margin-right: 10px;" />
+</p>
 
 <h2>⚙️ Frameworks & Libraries</h2>
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="30" title="Express.js" alt="Express.js Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" title="React" alt="React Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" title="Next.js" alt="Next.js Logo" />
-</div>
+<p style="white-space: nowrap; overflow-x: auto; margin: 0; padding: 0;">
+  <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" height="30" alt="Express.js Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js Logo" style="display: inline-block; margin-right: 10px;" />
+</p>
 
 <h2>🧰 Tools & Platforms</h2>
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" title="VSCode" alt="VSCode Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" title="VIM" alt="VIM Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" title="Git" alt="Git Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" title="Postman" alt="Postman Logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" title="Docker" alt="Docker Logo" />
-</div>
+<p style="white-space: nowrap; overflow-x: auto; margin: 0; padding: 0;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="30" alt="VIM Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="30" alt="Postman Logo" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker Logo" style="display: inline-block; margin-right: 10px;" />
+</p>
