@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Narumedsr Pitayachamrat (Pao)
+# 👋 Hi, I'm Narumedsr Pitayachamrat
 
 - 🎓 I'm currently studying Computer Engineering at Chulalongkorn University.
 - 💡 I have a strong interest in Artificial Intelligence and Backend Development.
