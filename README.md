@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Narumedsr Pitayachamrat (Pao)
 
-- 🎓 I am currently studying Computer Engineering at Chulalongkorn University.
+- 🎓 I'm currently studying Computer Engineering at Chulalongkorn University.
 - 💡 I have a strong interest in Artificial Intelligence and Backend Development.
 
 ## 💼 Project
